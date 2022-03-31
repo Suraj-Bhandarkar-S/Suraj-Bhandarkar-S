@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-bhandarkar-s&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-bhandarkar-s" /> </p>
 
-- 🌱 I’m currently learning **Django, React, Postman, Selenium, Unity**
+- 🌱 I’m currently learning **React,Python and Microservices**
 
 - 💬 Ask me about **Unity3D, Python, Django**
 
